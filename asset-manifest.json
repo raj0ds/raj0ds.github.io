@@ -1,20 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.937e2849.css",
-    "main.js": "/static/js/main.2f67bdfa.js",
-    "static/media/shopeasy.png": "/static/media/shopeasy.13c000edb21711fd21e8.png",
-    "static/media/hindustan-times.PNG": "/static/media/hindustan-times.009f0a6b72e0fc52c6a9.PNG",
-    "static/media/indiamart.PNG": "/static/media/indiamart.1fe32501e5ded3919fba.PNG",
-    "static/media/tmetric.png": "/static/media/tmetric.9adfb9e8c65ca0500d3b.png",
-    "static/media/uboric-clone.PNG": "/static/media/uboric-clone.0be369cc8f80c7650ecb.PNG",
+    "main.js": "/static/js/main.6e6a1334.js",
+    "static/media/telegram_bot.jpg": "/static/media/telegram_bot.7ab1b58bc8a8758eb741.jpg",
+    "static/media/news.jpg": "/static/media/news.204ef4685eda474abf22.jpg",
     "static/media/rajeev_resume.pdf": "/static/media/rajeev_resume.95a93b95d95964191008.pdf",
+    "static/media/stock.jpg": "/static/media/stock.5791d67c371927fbf478.jpg",
     "static/media/my_image.jpg": "/static/media/my_image.ad1449035cd75ededff5.jpg",
     "index.html": "/index.html",
     "main.937e2849.css.map": "/static/css/main.937e2849.css.map",
-    "main.2f67bdfa.js.map": "/static/js/main.2f67bdfa.js.map"
+    "main.6e6a1334.js.map": "/static/js/main.6e6a1334.js.map"
   },
   "entrypoints": [
     "static/css/main.937e2849.css",
-    "static/js/main.2f67bdfa.js"
+    "static/js/main.6e6a1334.js"
   ]
 }
