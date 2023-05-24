@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.937e2849.css",
-    "main.js": "/static/js/main.ff1609d7.js",
+    "main.js": "/static/js/main.a16a82d8.js",
     "static/media/telegram_bot.png": "/static/media/telegram_bot.f4136ae3f5acf5867e73.png",
     "static/media/news.png": "/static/media/news.171cccb75b3b825612fb.png",
     "static/media/stock.png": "/static/media/stock.1241351c8cb203c4e9d5.png",
@@ -9,10 +9,10 @@
     "static/media/rajeev_resume.pdf": "/static/media/rajeev_resume.95a93b95d95964191008.pdf",
     "index.html": "/index.html",
     "main.937e2849.css.map": "/static/css/main.937e2849.css.map",
-    "main.ff1609d7.js.map": "/static/js/main.ff1609d7.js.map"
+    "main.a16a82d8.js.map": "/static/js/main.a16a82d8.js.map"
   },
   "entrypoints": [
     "static/css/main.937e2849.css",
-    "static/js/main.ff1609d7.js"
+    "static/js/main.a16a82d8.js"
   ]
 }
